@@ -9,8 +9,10 @@
     font-family: 'Poppins', sans-serif;
     color: white;
     background: linear-gradient(to bottom, #0b1a2d, #1f3b5b);
+    background-size: cover;
+    background-attachment: fixed;
     overflow: hidden;
-  }
+  }  
   
   nav {
     position: fixed;
